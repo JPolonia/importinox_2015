@@ -1,0 +1,21 @@
+.my-gallery img {
+  padding:5px;
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 5px #111;
+}
+figure {
+  margin-right: auto;
+  margin-left: auto;
+}
+figure a {
+  display: block;
+}
+.my-gallery figure {
+  width: 300px;
+}
+
+.pswp__bg {
+  background: #000;}
